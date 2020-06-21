@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #444b47;
+}
+textarea{
+    width: 100%;
+    resize: none;
+}
+h1{
+    color: #dad8c1 !important;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 20px !important;
+}
+.larg-600{
+    max-width: 600px;
+}
+.element-center{
+    margin: 0 auto;
+}
+.txt-white{
+    color: #fff;
+}
+.box-white{
+    border-radius: 15px;
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    padding: 30px;
+}
+.btn{
+    background-color: #444b47;
+    color: #fff;
+}
+#enviar{
+    width: 100%;
+    margin-top: 25px;
+}
+#apt label{
+    margin-top: 10px;
+}
+.text-pad{
+    padding: 5px 15px;
+}
+#conclusao .container{
+    padding-top: 50px;
+}
+.btn-white{
+    background: #dad8c1;
+    color: #444b47;
+    line-height: 250%;
+    margin-top: 20px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
